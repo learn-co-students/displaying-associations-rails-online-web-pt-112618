@@ -36,4 +36,5 @@ class PostsController < ApplicationController
 			:category_id
 			)
 	end
+	#comment for github
 end
